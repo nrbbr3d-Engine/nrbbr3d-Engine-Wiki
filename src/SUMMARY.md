@@ -8,3 +8,4 @@
         - [Lua Scripting](./Getting%20Started/Modding/LuaScripting.md)
         - [Modding API](./Getting%20Started/Modding/ModdingAPI.md)
         - [Modding Example](./Getting%20Started/Modding/ModdingExample.md)
+- [Lua API reference](./Lua%20API%20reference.md)

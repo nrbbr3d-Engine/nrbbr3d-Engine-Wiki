@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "nrbbr3d Engine V2 Moding Wiki"
+description = "The official wiki for the nrbbr3d Engine V2 Moding API"
+
+[output.html]
+git-repository-url = "https://github.com/Nnamllit1/nrbbr3d-Engine-V2-Wiki"
+edit-url-template = "https://github.com/Nnamllit1/nrbbr3d-Engine-V2-Wiki/edit/master/guide/{path}"

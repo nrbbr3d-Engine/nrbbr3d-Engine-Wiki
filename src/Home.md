@@ -1,6 +1,12 @@
-# Summary
+# Home
 
-- [Home](./Home.md)
+Welcome to the nrbbr3d Engine V2 wiki!
+
+nrbbr3d Engine V2 is a 3D game engine written in C++ and with OpenGL. It has a easy to use lua modding API. 
+It's currently in development and is not yet ready for use.
+
+## Table of Contents
+
 - [Intruduction](./Intruduction.md)
 - [Getting Started](./GettingStarted.md)
     - [Installation](./Getting%20Started/Installation.md)

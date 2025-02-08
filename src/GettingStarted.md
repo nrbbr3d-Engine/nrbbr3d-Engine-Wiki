@@ -1,6 +1,7 @@
-# Getting Started
+# 3. Getting Started
 
-## Installation
+This section will guide you through the process of setting up and running the nrbbr3d Engine V2 and it's modding workflow.
 
-1. Download the latest release from the [releases page](https://github.com/Nnamllit1/nrbbr3d-Engine-V2/releases).
-2. 
+[3.1. Installation](./Getting%20Started/Installation.md)
+
+[3.2. Modding](./Getting%20Started/Modding.md)

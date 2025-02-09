@@ -16,3 +16,6 @@
         - [log_print ](./lua-doc/basic/log_print.md)
         - [log_print_debug](./lua-doc/basic/log_print_debug.md)
 
+-----------
+
+[Wiki Contributors](./other/Wiki%20Contributors.md)

@@ -1,3 +1,6 @@
+> **⚠️ Disclaimer:** The Nrbbr3d Engine V2 is still in development and will change in the future. The Wiki may be partially incomplete.
+> 📖 [Read more](/Lua%20API%20reference.html#important)
+
 # Home
 
 Welcome to the nrbbr3d Engine V2 wiki!

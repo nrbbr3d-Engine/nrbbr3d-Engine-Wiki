@@ -38,5 +38,5 @@ Normal, Module: Example Mod Name, Hello World!
 ### C++ Implementation
 
 ```cpp  
-log::log_print(std::string typ, std::string modul, std::string masage)
+log::log_print(std::string typ, std::string modul, std::string message)
 ```

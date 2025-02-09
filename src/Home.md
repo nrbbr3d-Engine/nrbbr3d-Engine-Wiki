@@ -16,3 +16,5 @@ It's currently in development and is not yet ready for use.
         - [Modding Example](./Getting%20Started/Modding/ModdingExample.md)
 - [Lua API reference](./Lua%20API%20reference.md)
     - [Basic's](./lua-doc/Basic.md)
+        - [log_print](./lua-doc/basic/log_print.md)
+        

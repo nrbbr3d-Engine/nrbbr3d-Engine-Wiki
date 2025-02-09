@@ -1,5 +1,5 @@
 > **⚠️ Disclaimer:** The Nrbbr3d Engine V2 Lua API is still in development and will change in the future. It may be partially incomplete or out of date.  
-> 📖 [Read more](/Lua%20API%20reference.html#important)
+> 📖 [Read more](.../Lua%20API%20reference.html#important)
 
 # log_print
 
@@ -15,9 +15,9 @@ log_print(typ, modul, message)
 
 ### Parameters
 
-- `typ`: The type of the message. Can be set to everything, but it's recommended to use `Normal`, `Warning` or `Error`.
-- `modul`: The module that the message belongs to. Like `your mod name`.
-- `message`: The message to print. Can be anything.
+- `typ`: The type of the message. Can be set to everything, but it's recommended to use `Normal`, `Warning` or `Error`. (Must be a string)
+- `modul`: The module that the message belongs to. Like `your mod name`. (Must be a string)
+- `message`: The message to print. Can be anything. (Must be a string)
 
 ### Return value
 

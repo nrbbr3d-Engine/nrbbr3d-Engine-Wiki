@@ -4,5 +4,8 @@ This section will contain a list of all the basic functions available in the nrb
 
 ## log_print
 
-[More info](./lua-doc/basic/log_print.md)
+[More info](./basic/log_print.md)
 
+## log_print_debug
+
+[More info](./basic/log_print_debug.md)

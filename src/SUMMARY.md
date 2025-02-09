@@ -14,4 +14,5 @@
 - [Lua API reference](./Lua%20API%20reference.md)
     - [Basic's](./lua-doc/Basic.md)
         - [log_print ](./lua-doc/basic/log_print.md)
+        - [log_print_debug](./lua-doc/basic/log_print_debug.md)
 

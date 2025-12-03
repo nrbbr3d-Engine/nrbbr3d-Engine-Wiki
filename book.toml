@@ -3,8 +3,8 @@ authors = ["Nnamllit11"]
 language = "en"
 multilingual = false
 src = "src"
-title = "nrbbr3d Engine V2 Wiki"
-description = "The official wiki for the nrbbr3d Engine V2"
+title = "nrbbr3d Engine Wiki"
+description = "The official wiki for the nrbbr3d Engine"
 
 [output.html]
 git-repository-url = "https://github.com/Nnamllit1/nrbbr3d-Engine-V2-Wiki"

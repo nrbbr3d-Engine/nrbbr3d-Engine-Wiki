@@ -12,3 +12,39 @@ This section will contain a list of all the basic functions available in the nrb
 ## log_print_debug
 
 [More info](./basic/log_print_debug.md)
+
+## logWarning
+
+Logs a warning message.
+
+[More info](./basic/logWarning.md)
+
+## logError
+
+Logs an error message.
+
+[More info](./basic/logError.md)
+
+## logInfo
+
+Logs an informational message.
+
+[More info](./basic/logInfo.md)
+
+## logDebug
+
+Logs a debug message.
+
+[More info](./basic/logDebug.md)
+
+## logCritical
+
+Logs a critical message.
+
+[More info](./basic/logCritical.md)
+
+## getCurentFPS
+
+Retrieves the current FPS (frames per second).
+
+[More info](./basic/getCurentFPS.md)

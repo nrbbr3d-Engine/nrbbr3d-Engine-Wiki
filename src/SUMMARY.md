@@ -13,8 +13,12 @@
 
 - [Lua API reference](./Lua%20API%20reference.md)
     - [Basic's](./lua-doc/Basic.md)
-        - [log_print ](./lua-doc/basic/log_print.md)
-        - [log_print_debug](./lua-doc/basic/log_print_debug.md)
+        - [logWarning](./lua-doc/basic/logWarning.md)
+        - [logError](./lua-doc/basic/logError.md)
+        - [logInfo](./lua-doc/basic/logInfo.md)
+        - [logDebug](./lua-doc/basic/logDebug.md)
+        - [logCritical](./lua-doc/basic/logCritical.md)
+        - [getCurentFPS](./lua-doc/basic/getCurentFPS.md)
 
 -----------
 
